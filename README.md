@@ -145,17 +145,7 @@ Full-stack e-commerce platform for online ordering.
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=geofreybazar&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geofreybazar&layout=compact&theme=github_dark"/>
-
-</p>
-
----
 
 ## 🎯 2026 Goals
 
