@@ -36,6 +36,10 @@ I build modern, scalable, and production-ready web applications using the MERN s
 <a href="https://facebook.com/geofrey05">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
 </a>
+
+<a href="[https://facebook.com/geofrey05](https://portfolio-delta-ten-qxyc09isde.vercel.app/)">
+<img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://www.svgrepo.com/show/389769/globe-web-browser.svg)" width="40"/>
+</a>
 </p>
 
 ---
