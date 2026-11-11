@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geofrey R. Bazar</h1>
 
 <h3 align="center">
-Full Stack Web Developer | MERN Stack | Next.js | TypeScript
+Full Stack Web Developer | MERN Stack | NestJs | Next.js | TypeScript
 </h3>
 
 <p align="center">
