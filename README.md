@@ -121,61 +121,64 @@ I enjoy exploring new technologies, applying software engineering best practices
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-
-### 📝 1. BFP-NCR Running Card System
+🚒 1. BFP-NCR Running Card System
 
 <sub>Completed | Bureau of Fire Protection – National Capital Region</sub>
 
-A digital system developed for BFP-NCR to manage and streamline running card operations and related record management processes.
+A fire response coordination and running card management system developed for BFP-NCR. It identifies the nearest fire stations with available fire trucks based on an incident location, organizes responding units by alarm level, and facilitates dispatch coordination as an incident escalates.
 
-**Key Features**
-- Digital Running Card Management
-- Centralized Record Management
-- Search and Filtering
-- User Access Management
-- Digital Record Monitoring
+Key Features
+Automated Running Card Generation based on nearest available fire stations
+Alarm Level Management and Escalation
+Fire Truck Dispatch and Availability Monitoring
+Special Unit Requests (Ladder Trucks, Rescue Trucks, CSSR Trucks, and Ambulances)
+Special Deployment Management for Planned Events
+Real-Time Notifications for Cities, Districts, and Regional Offices
+Statistics, Response Monitoring, and Audit Logs
+Google Maps Integration
 
----
+Technology Stack: React, NestJS, PostgreSQL, Google Maps Platform
 
-### 💍 2. GEO + Me Bridal
+Live System: https://bfpncrrunningcardsystem.tech/
+
+💍 2. GEO + Me Bridal
 
 <sub>Completed | Full Stack E-commerce Platform</sub>
 
-A full-stack e-commerce platform developed for a bespoke bridal couture business specializing in wedding gowns and groom suits.
+A full-stack e-commerce platform developed for a bespoke bridal couture business specializing in custom wedding gowns and groom suits. The platform provides online product browsing, shopping cart functionality, secure checkout, and administrative tools for managing products and orders.
 
-**Technology Stack:**
+Key Features
+Product and Collection Management
+Shopping Cart and Checkout
+PayMongo Payment Integration
+Authentication and Authorization
+Cloudinary Image Management
+Admin Dashboard
+Order Management
 
-Next.js, React, TypeScript, Node.js, MongoDB, Auth.js, PayMongo, Cloudinary.
+Technology Stack: Next.js, React, TypeScript, Node.js, MongoDB, Auth.js, PayMongo, Cloudinary.
 
-**Key Features**
-- Product and Collection Management
-- Shopping Cart and Checkout
-- PayMongo Payment Integration
-- Authentication and Authorization
-- Cloudinary Image Management
-- Admin Dashboard
-- Order Management
+Live Website: https://geoandmebridal.com
 
----
-
-### 🏢 3. BFP-NCR Document Tracking System
+🏢 3. BFP-NCR Document Tracking System
 
 <sub>Production System | Bureau of Fire Protection – National Capital Region</sub>
 
-A document tracking and management system designed to digitize document routing, forwarding, and monitoring within the Bureau of Fire Protection – NCR.
+A document tracking and management system designed to digitize document routing, forwarding, and monitoring within the Bureau of Fire Protection – NCR. It provides centralized document visibility, accountability, and tracking throughout the document lifecycle.
 
-**Key Features**
-- Role-Based Access Control
-- JWT Authentication
-- Real-time Notifications using Socket.IO
-- Document Forwarding and Routing
-- Document History and Audit Logs
-- Search and Filtering
-- Centralized Document Monitoring
+Key Features
+Role-Based Access Control
+JWT Authentication
+Real-Time Notifications using Socket.IO
+Document Forwarding and Routing
+Document History and Audit Logs
+Search and Filtering
+Centralized Document Monitoring
+Technology Stack: React, Node.js, Express, MongoDB, Socket.IO, JWT.
 
----
+Live System: https://bfpncrdts.com
 
 
 ## 🏗️ Software Engineering Interests
