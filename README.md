@@ -214,8 +214,16 @@ I am continuously improving my understanding and practical application of:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geofreybazar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geofreybazar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=geofreybazar&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=geofreybazar&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
